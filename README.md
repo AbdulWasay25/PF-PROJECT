@@ -1,7 +1,6 @@
-#THE MAZE GAME 
+# THE MAZE GAME 
 
-(![logo maze](https://github.com/user-attachments/assets/eb5e98bc-a431-47e1-aab2-5213ad6528aa)
-)
+(![logo maze ](https://github.com/user-attachments/assets/4083186d-ee5c-404f-b108-bc2ca502a3ab))
 
 It is a simple , text based Maze game where player navigates through the maze from starting point(S) to an end point (E).
 The game is written in C programming language using basic constructs like arrays, loops, conditionals, and functions. 
